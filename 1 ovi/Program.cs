@@ -1,0 +1,2 @@
+﻿int ovitila = 0;
+
