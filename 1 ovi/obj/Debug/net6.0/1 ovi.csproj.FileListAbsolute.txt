@@ -1,0 +1,15 @@
+C:\koodaroita\olio-ohjelmointi\1 ovi\obj\Debug\net6.0\1 ovi.csproj.AssemblyReference.cache
+C:\koodaroita\olio-ohjelmointi\1 ovi\obj\Debug\net6.0\1 ovi.GeneratedMSBuildEditorConfig.editorconfig
+C:\koodaroita\olio-ohjelmointi\1 ovi\obj\Debug\net6.0\1 ovi.AssemblyInfoInputs.cache
+C:\koodaroita\olio-ohjelmointi\1 ovi\obj\Debug\net6.0\1 ovi.AssemblyInfo.cs
+C:\koodaroita\olio-ohjelmointi\1 ovi\obj\Debug\net6.0\1 ovi.csproj.CoreCompileInputs.cache
+C:\koodaroita\olio-ohjelmointi\1 ovi\bin\Debug\net6.0\1 ovi.exe
+C:\koodaroita\olio-ohjelmointi\1 ovi\bin\Debug\net6.0\1 ovi.deps.json
+C:\koodaroita\olio-ohjelmointi\1 ovi\bin\Debug\net6.0\1 ovi.runtimeconfig.json
+C:\koodaroita\olio-ohjelmointi\1 ovi\bin\Debug\net6.0\1 ovi.dll
+C:\koodaroita\olio-ohjelmointi\1 ovi\bin\Debug\net6.0\1 ovi.pdb
+C:\koodaroita\olio-ohjelmointi\1 ovi\obj\Debug\net6.0\1 ovi.dll
+C:\koodaroita\olio-ohjelmointi\1 ovi\obj\Debug\net6.0\refint\1 ovi.dll
+C:\koodaroita\olio-ohjelmointi\1 ovi\obj\Debug\net6.0\1 ovi.pdb
+C:\koodaroita\olio-ohjelmointi\1 ovi\obj\Debug\net6.0\1 ovi.genruntimeconfig.cache
+C:\koodaroita\olio-ohjelmointi\1 ovi\obj\Debug\net6.0\ref\1 ovi.dll

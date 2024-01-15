@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\koodaroita\\olio-ohjelmointi\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\koodaroita\\olio-ohjelmointi\\1 ovi\\1 ovi.csproj": {}
   },
   "projects": {
-    "C:\\koodaroita\\olio-ohjelmointi\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\koodaroita\\olio-ohjelmointi\\1 ovi\\1 ovi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\koodaroita\\olio-ohjelmointi\\ConsoleApp1\\ConsoleApp1.csproj",
-        "projectName": "ConsoleApp1",
-        "projectPath": "C:\\koodaroita\\olio-ohjelmointi\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\koodaroita\\olio-ohjelmointi\\1 ovi\\1 ovi.csproj",
+        "projectName": "1 ovi",
+        "projectPath": "C:\\koodaroita\\olio-ohjelmointi\\1 ovi\\1 ovi.csproj",
         "packagesPath": "C:\\Users\\s2200898\\.nuget\\packages\\",
-        "outputPath": "C:\\koodaroita\\olio-ohjelmointi\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\koodaroita\\olio-ohjelmointi\\1 ovi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\s2200898\\AppData\\Roaming\\NuGet\\NuGet.Config",
