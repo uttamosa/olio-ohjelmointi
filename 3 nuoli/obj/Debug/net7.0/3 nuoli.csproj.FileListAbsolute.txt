@@ -1,0 +1,15 @@
+C:\koodaroita\olio-ohjelmointi\3 nuoli\bin\Debug\net7.0\3 nuoli.exe
+C:\koodaroita\olio-ohjelmointi\3 nuoli\bin\Debug\net7.0\3 nuoli.deps.json
+C:\koodaroita\olio-ohjelmointi\3 nuoli\bin\Debug\net7.0\3 nuoli.runtimeconfig.json
+C:\koodaroita\olio-ohjelmointi\3 nuoli\bin\Debug\net7.0\3 nuoli.dll
+C:\koodaroita\olio-ohjelmointi\3 nuoli\bin\Debug\net7.0\3 nuoli.pdb
+C:\koodaroita\olio-ohjelmointi\3 nuoli\obj\Debug\net7.0\3 nuoli.csproj.AssemblyReference.cache
+C:\koodaroita\olio-ohjelmointi\3 nuoli\obj\Debug\net7.0\3 nuoli.GeneratedMSBuildEditorConfig.editorconfig
+C:\koodaroita\olio-ohjelmointi\3 nuoli\obj\Debug\net7.0\3 nuoli.AssemblyInfoInputs.cache
+C:\koodaroita\olio-ohjelmointi\3 nuoli\obj\Debug\net7.0\3 nuoli.AssemblyInfo.cs
+C:\koodaroita\olio-ohjelmointi\3 nuoli\obj\Debug\net7.0\3 nuoli.csproj.CoreCompileInputs.cache
+C:\koodaroita\olio-ohjelmointi\3 nuoli\obj\Debug\net7.0\3 nuoli.dll
+C:\koodaroita\olio-ohjelmointi\3 nuoli\obj\Debug\net7.0\refint\3 nuoli.dll
+C:\koodaroita\olio-ohjelmointi\3 nuoli\obj\Debug\net7.0\3 nuoli.pdb
+C:\koodaroita\olio-ohjelmointi\3 nuoli\obj\Debug\net7.0\3 nuoli.genruntimeconfig.cache
+C:\koodaroita\olio-ohjelmointi\3 nuoli\obj\Debug\net7.0\ref\3 nuoli.dll
