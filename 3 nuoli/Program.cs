@@ -52,13 +52,13 @@ namespace _3_nuoli
                         nuoli.pituus = pituusinput;
                         switch (kärkiinput)
                         {
-                            case "puu":
+                            case "1":
                                 nuoli.kärki = kärkityyppi.puu;
                                 break;
-                            case "teräs":
+                            case "2":
                                 nuoli.kärki = kärkityyppi.teräs;
                                 break;
-                            case "timantti":
+                            case "3":
                                 nuoli.kärki = kärkityyppi.timantti;
                                 break;
                             default:

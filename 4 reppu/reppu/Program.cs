@@ -1,0 +1,7 @@
+﻿namespace reppu
+{
+    class Reppu
+    {
+        
+    }
+}
