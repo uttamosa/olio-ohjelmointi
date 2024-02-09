@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace reppu
 {
-    internal class Jousi : Tavara
+    internal class Vesi : Tavara
     {
-        public Jousi() : base(1f, 4f)
+        public Vesi() : base(2f, 2f)
         {
 
         }

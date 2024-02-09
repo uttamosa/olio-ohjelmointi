@@ -1,0 +1,15 @@
+C:\koodaroita\olio-ohjelmointi\4 reppu\reppu\bin\Debug\net7.0\reppu.exe
+C:\koodaroita\olio-ohjelmointi\4 reppu\reppu\bin\Debug\net7.0\reppu.deps.json
+C:\koodaroita\olio-ohjelmointi\4 reppu\reppu\bin\Debug\net7.0\reppu.runtimeconfig.json
+C:\koodaroita\olio-ohjelmointi\4 reppu\reppu\bin\Debug\net7.0\reppu.dll
+C:\koodaroita\olio-ohjelmointi\4 reppu\reppu\bin\Debug\net7.0\reppu.pdb
+C:\koodaroita\olio-ohjelmointi\4 reppu\reppu\obj\Debug\net7.0\reppu.csproj.AssemblyReference.cache
+C:\koodaroita\olio-ohjelmointi\4 reppu\reppu\obj\Debug\net7.0\reppu.GeneratedMSBuildEditorConfig.editorconfig
+C:\koodaroita\olio-ohjelmointi\4 reppu\reppu\obj\Debug\net7.0\reppu.AssemblyInfoInputs.cache
+C:\koodaroita\olio-ohjelmointi\4 reppu\reppu\obj\Debug\net7.0\reppu.AssemblyInfo.cs
+C:\koodaroita\olio-ohjelmointi\4 reppu\reppu\obj\Debug\net7.0\reppu.csproj.CoreCompileInputs.cache
+C:\koodaroita\olio-ohjelmointi\4 reppu\reppu\obj\Debug\net7.0\reppu.dll
+C:\koodaroita\olio-ohjelmointi\4 reppu\reppu\obj\Debug\net7.0\refint\reppu.dll
+C:\koodaroita\olio-ohjelmointi\4 reppu\reppu\obj\Debug\net7.0\reppu.pdb
+C:\koodaroita\olio-ohjelmointi\4 reppu\reppu\obj\Debug\net7.0\reppu.genruntimeconfig.cache
+C:\koodaroita\olio-ohjelmointi\4 reppu\reppu\obj\Debug\net7.0\ref\reppu.dll

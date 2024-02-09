@@ -8,9 +8,9 @@ namespace reppu
 {
     internal class Nuoli : Tavara
     {
-        public Nuoli() : base(0.1,0.05) 
+        public Nuoli() : base(0.1f,0.05f) 
         {
-
+            
         }
     }
 }
