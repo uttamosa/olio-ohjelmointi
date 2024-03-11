@@ -1,0 +1,15 @@
+C:\koodaroita\olio-ohjelmointi\loppu\loppuprojekti\obj\Debug\net7.0\loppuprojekti.csproj.AssemblyReference.cache
+C:\koodaroita\olio-ohjelmointi\loppu\loppuprojekti\obj\Debug\net7.0\loppuprojekti.GeneratedMSBuildEditorConfig.editorconfig
+C:\koodaroita\olio-ohjelmointi\loppu\loppuprojekti\obj\Debug\net7.0\loppuprojekti.AssemblyInfoInputs.cache
+C:\koodaroita\olio-ohjelmointi\loppu\loppuprojekti\obj\Debug\net7.0\loppuprojekti.AssemblyInfo.cs
+C:\koodaroita\olio-ohjelmointi\loppu\loppuprojekti\obj\Debug\net7.0\loppuprojekti.csproj.CoreCompileInputs.cache
+C:\koodaroita\olio-ohjelmointi\loppu\loppuprojekti\bin\Debug\net7.0\loppuprojekti.exe
+C:\koodaroita\olio-ohjelmointi\loppu\loppuprojekti\bin\Debug\net7.0\loppuprojekti.deps.json
+C:\koodaroita\olio-ohjelmointi\loppu\loppuprojekti\bin\Debug\net7.0\loppuprojekti.runtimeconfig.json
+C:\koodaroita\olio-ohjelmointi\loppu\loppuprojekti\bin\Debug\net7.0\loppuprojekti.dll
+C:\koodaroita\olio-ohjelmointi\loppu\loppuprojekti\bin\Debug\net7.0\loppuprojekti.pdb
+C:\koodaroita\olio-ohjelmointi\loppu\loppuprojekti\obj\Debug\net7.0\loppuprojekti.dll
+C:\koodaroita\olio-ohjelmointi\loppu\loppuprojekti\obj\Debug\net7.0\refint\loppuprojekti.dll
+C:\koodaroita\olio-ohjelmointi\loppu\loppuprojekti\obj\Debug\net7.0\loppuprojekti.pdb
+C:\koodaroita\olio-ohjelmointi\loppu\loppuprojekti\obj\Debug\net7.0\loppuprojekti.genruntimeconfig.cache
+C:\koodaroita\olio-ohjelmointi\loppu\loppuprojekti\obj\Debug\net7.0\ref\loppuprojekti.dll
