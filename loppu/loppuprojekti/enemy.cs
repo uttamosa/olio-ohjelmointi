@@ -4,6 +4,7 @@
     {
         public float hp;
         public float dmg;
-        List<Equipment> drops;
+        public int levels;
+        public List<Equipment> drops;
     }
 }

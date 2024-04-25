@@ -1,11 +1,4 @@
-﻿using loppuprojekti.equipment;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace loppuprojekti
+﻿namespace loppuprojekti
 {
     internal class Equipment
     {
